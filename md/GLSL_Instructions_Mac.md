@@ -3,7 +3,7 @@
 ## Installing and setting up Anime4K for Intel-based and Apple Silicon Mac
 *If you wish to use another media player, look at their documentation on how to install GLSL shaders and modify the shader accordingly if needed.*
 
-  1. Install mpv via [**Homebrew**](https://formulae.brew.sh/formula/mpv) or download the lates release [**here**](https://laboratory.stolendata.net/~djinn/mpv_osx/mpv-latest.tar.gz)
+  1. Install mpv via [**Homebrew**](https://formulae.brew.sh/formula/mpv) or download the latest release [**here**](https://laboratory.stolendata.net/~djinn/mpv_osx/mpv-latest.tar.gz)
  
   2. Download the .glsl shader files [**here**](https://github.com/bloc97/Anime4K/releases)  
 
