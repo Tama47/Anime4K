@@ -20,18 +20,24 @@ Currently, research is being done on better real-time upscaling for lower resolu
 ## **Installation Instructions**
 
   ### Windows
-  - [(GLSL/MPV)](md/GLSL_Instructions_Windows_MPV.md)  
-  - [(GLSL/Plex)](md/GLSL_Instructions_Windows_Plex.md)  
+  - [(GLSL/MPV)](md/GLSL_Instructions_Windows_MPV.md)
+  - [(GLSL/Plex)](md/GLSL_Instructions_Windows_Plex.md)
 
   ### Linux
   - [(GLSL/MPV)](md/GLSL_Instructions_Linux.md)
   - [(GLSL/Plex)](md/GLSL_Instructions_Linux_Plex.md)
 
   ### Mac
-  - [(GLSL/MPV)](md/GLSL_Instructions_Mac_MPV.md)  
-  - [(GLSL/IINA)](md/GLSL_Instructions_Mac_IINA.md)  
-  - [(GLSL/Plex)](md/GLSL_Instructions_Mac_Plex.md)  
+  - [(GLSL/MPV)](md/GLSL_Instructions_Mac_MPV.md)
+  - [(GLSL/IINA)](md/GLSL_Instructions_Mac_IINA.md)
+  - [(GLSL/Plex)](md/GLSL_Instructions_Mac_Plex.md)
 
+  ### Android / Android TV
+  - [(GLSL/mpv-android)](md/GLSL_Instructions_Android.md)
+
+  ### iOS / iPadOS / tvOS (Limited playback support, third-party)
+  - [(MLS/Anime4KMetal)](md/MSL_Instructions_iOS.md)
+  
 ## v4.1 Low resolution experiment
 Results from the [experimental SRGAN shaders](https://github.com/bloc97/Anime4K/commit/5f9294d847e724b67f941d1742e3565a0a106291) for 360p -> 4K: (zoom in to view details)
 
